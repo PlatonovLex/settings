@@ -4,10 +4,12 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.prop" />
+    <option name="FILE_MASK" value="*.pr" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,9 +22,10 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
     </recentFileMasks>
   </component>
 </application>
